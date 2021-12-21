@@ -8,4 +8,9 @@
 
 ## Method
 - Clustering: K-Means, DBSCAN
-- 
+
+
+## Data
+
+LEHD Origin-Destination Employment Statistics (LODES) Dataset Structure Format Version 7.5
+- link: https://lehd.ces.census.gov/
