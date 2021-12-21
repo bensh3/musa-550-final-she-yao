@@ -8,7 +8,7 @@
 
 ## Method
 - Clustering: K-Means, DBSCAN
-- 
+- xarray processing
 - We learned some other packages for network analysis:
   + MovingPandas
   + SpatialPandas
