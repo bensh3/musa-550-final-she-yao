@@ -8,6 +8,10 @@
 
 ## Method
 - Clustering: K-Means, DBSCAN
+- 
+- We learned some other packages for network analysis:
+  + MovingPandas
+  + SpatialPandas
 
 
 ## Data
